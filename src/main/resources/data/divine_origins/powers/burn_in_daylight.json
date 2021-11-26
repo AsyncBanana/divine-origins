@@ -1,0 +1,15 @@
+{
+  "type": "origins:damage_over_time",
+  "interval": 100,
+  "onset_delay": 200,
+  "damage": 2,
+  "damage_easy": 1,
+  "damage_source": {
+    "name": "sunlight",
+    "unblockable": true,
+    "bypasses_armor": true
+  },
+  "condition": {
+    "type": "origins:exposed_to_sun"
+  }
+}

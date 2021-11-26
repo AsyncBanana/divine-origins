@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "divine_origins",
+  "version": "1.0.0",
+
+  "name": "Divine Origins",
+  "description": "An Origins mod",
+  "authors": [
+    "AsyncBanana"
+  ],
+  "contact": {
+
+  },
+
+  "license": "MIT",
+  "icon": "assets/divine_origins/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.asyncbanana.divine_origins.divine_origins"]
+  },
+  "mixins": [
+    "divine_origins.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "minecraft": "1.17.x",
+    "java": ">=16",
+    "origins": ">=1.1.4"
+  },
+  "suggests": {
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "origin.divine_origins.devil.name": "Devil",
+  "origin.divine_origins.devil.description": "A fiery being from the depths of the Nether, born to fight.",
+  "origin.divine_origins.demigod.name": "Demigod",
+  "origin.divine_origins.demigod.description": "A half celestial.",
+  "power.divine_origins.mark_of_the_devils.name": "Mark of the Devils",
+  "power.divine_origins.mark_of_the_devils.description": "Your skin has a fiery tint.",
+  "power.divine_origins.burn_in_daylight.name": "Sunlight sensitivity",
+  "power.divine_origins.burn_in_daylight.description": "Daylight slowly kills you, even though you are immune to fire.",
+  "power.divine_origins.soul_steal.name": "Soul Steal",
+  "power.divine_origins.soul_steal.description": "When you kill a player, you gain regeneration.",
+  "power.divine_origins.expert_fighter.name": "Expert Fighter",
+  "power.divine_origins.expert_fighter.description": "You fight 25% faster.",
+  "power.divine_origins.divine_regen.name": "Divine Regen",
+  "power.divine_origins.divine_regen.description": "You passively regenerate extra health.",
+  "power.divine_origins.ichor.name": "Ichor Blood",
+  "power.divine_origins.ichor.description": "You are immune to wither, poison, slowness, and blindness.",
+  "power.divine_origins.weak.name": "Weak",
+  "power.divine_origins.weak.description": "You deal slightly less damage and have slightly fewer hearts",
+  "death,attack.sunlight": "%1$s was burned by sunlight",
+  "death.attack.sunlight.player": "%1$s was pushed into sunlight by %2$s"
+}

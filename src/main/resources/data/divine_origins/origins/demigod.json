@@ -1,0 +1,9 @@
+{
+  "icon": "minecraft:bookshelf",
+  "powers": [
+    "origins:tailwind",
+    "divine_origins:divine_regen",
+    "divine_origins:ichor",
+    "divine_origins:weak"
+  ]
+}
