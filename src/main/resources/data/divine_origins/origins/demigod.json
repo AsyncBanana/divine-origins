@@ -1,5 +1,6 @@
 {
   "icon": "minecraft:bookshelf",
+  "impact": 2,
   "powers": [
     "origins:tailwind",
     "divine_origins:divine_regen",
