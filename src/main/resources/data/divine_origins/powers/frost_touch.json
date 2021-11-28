@@ -2,7 +2,7 @@
   "type": "origins:multiple",
   "slowness": {
     "type": "origins:target_action_on_hit",
-    "cooldown": 20,
+    "cooldown": 10,
     "entity_action": {
       "type": "origins:apply_effect",
       "effect": {
@@ -11,7 +11,7 @@
     }
   },
   "freeze": {
-    "type": "origins:self_action_when_hit",
+    "type": "origins:target_action_on_hit",
     "cooldown": 10,
     "entity_action": {
       "type": "divine_origins:freeze_entity",
