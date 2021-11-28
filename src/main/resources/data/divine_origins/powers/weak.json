@@ -1,21 +1,9 @@
 {
-  "type": "origins:multiple",
-  "weaker_attack": {
     "type": "origins:attribute",
     "modifier": {
-      "name": "Weak damage decrease",
       "attribute": "minecraft:generic.attack_damage",
-      "value": -0.25,
-      "operation": "multiply_total"
-    }
-  },
-  "less_health": {
-    "type": "origins:attribute",
-    "modifier": {
-      "name": "Weak health reduction",
-      "attribute": "minecraft:generic.max_health",
-      "value": -4.0,
-      "operation": "addition"
+      "name": "Weak damage decrease",
+      "operation": "multiply_total",
+      "value": -0.25
     }
   }
-}

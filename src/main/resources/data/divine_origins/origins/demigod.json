@@ -5,6 +5,7 @@
     "origins:tailwind",
     "divine_origins:divine_regen",
     "divine_origins:ichor",
-    "divine_origins:weak"
+    "divine_origins:weak",
+    "divine_origins:undead_vulnerability"
   ]
 }

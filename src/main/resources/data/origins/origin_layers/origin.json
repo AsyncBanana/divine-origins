@@ -2,6 +2,8 @@
   "replace": "false",
   "origins": [
     "divine_origins:devil",
-    "divine_origins:demigod"
+    "divine_origins:demigod",
+    "divine_origins:jotunn",
+    "divine_origins:minotaur"
   ]
 }
