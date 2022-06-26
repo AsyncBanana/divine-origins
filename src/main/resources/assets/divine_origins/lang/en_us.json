@@ -29,6 +29,6 @@
   "power.divine_origins.slow.description": "You are 20% slower.",
   "power.divine_origins.natural_armor.name": "Natural Armor",
   "power.divine_origins.natural_armor.description": "You have extremely strong armor naturally.",
-  "death.attack.sunlight": "%1$s was burned by sunlight",
+  "death.attack.sunlight": "%1$s burned by sunlight",
   "death.attack.sunlight.player": "%1$s was pushed into sunlight by %2$s"
 }

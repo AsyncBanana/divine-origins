@@ -13,3 +13,7 @@ Demigod has a lesser effect on your playstyle than Devil and is more well-rounde
 ## Jötunn
 
 Jötunn is a bit of a tank origin, inspired by the Norse frost giants. They have natural armor and strong arms but also have slight slowness and more exhaustion. However, their primary ability is inflicting slowness and cold upon hitting entities as if you went into powder snow.
+
+## Minotaur
+
+Minotaur is another tank origin, very related to Jötunn. However, instead of having a frost ability, they have further improved armor, even beyond Jötunn.
