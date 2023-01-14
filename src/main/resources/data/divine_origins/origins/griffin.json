@@ -1,0 +1,14 @@
+{
+    "icon": "minecraft:cat_spawn_egg",
+    "impact": 1,
+    "order": 0,
+    "powers": [
+        "divine_origins:lions_sprint",
+        "divine_origins:bird_of_prey",
+        "divine_origins:enhanced_jump",
+        "divine_origins:aquatic_alien",
+        "origins:natural_armor",
+        "origins:claustrophobia",
+        "origins:more_exhaustion"
+    ]
+}

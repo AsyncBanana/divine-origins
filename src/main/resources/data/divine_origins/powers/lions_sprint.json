@@ -1,0 +1,11 @@
+{
+    "type": "origins:self_action_on_hit",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:speed",
+            "duration": 60,
+            "amplifier": 1
+        }
+    }
+}

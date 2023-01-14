@@ -1,0 +1,14 @@
+{
+    "type": "origins:attacker_action_when_hit",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:glowing",
+            "duration": 100,
+            "amplifier": 0
+        }
+    },
+    "damage_condition": {
+        "type": "origins:projectile"
+    }
+}

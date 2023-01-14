@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "divine_origins",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "name": "Divine Origins",
   "description": "An Origins mod",
   "authors": [
@@ -21,9 +21,9 @@
   ],
   "depends": {
     "fabricloader": ">=0.14.8",
-    "minecraft": "1.19",
+    "minecraft": "1.19.2",
     "java": ">=17",
-    "origins": ">=1.6.1"
+    "origins": ">=1.7.1"
   },
   "suggests": {}
 }

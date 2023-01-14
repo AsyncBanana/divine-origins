@@ -17,3 +17,7 @@ Jötunn is a bit of a tank origin, inspired by the Norse frost giants. They have
 ## Minotaur
 
 Minotaur is another tank origin, very related to Jötunn. However, instead of having a frost ability, they have further improved armor, even beyond Jötunn.
+
+## Griffin
+
+Griffin is a more minimal origin that adds a bit more mobility and a few combat features at the cost of claustrophobia, exhaustion and taking more damage in water.
